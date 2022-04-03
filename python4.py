@@ -1,0 +1,10 @@
+my_name = ("suteera : sunakorn : 465546");
+show = my_name.split(":");
+print(show);
+find_number = my_name.find("4");
+#print(show[2]);
+#print(my_name.split());
+#print(my_name.upper());
+#print(len(my_name));
+#print(my_name[0:4]);
+#print(type(my_name));
